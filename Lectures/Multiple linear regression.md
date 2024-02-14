@@ -1,4 +1,4 @@
-# Week 4 - Regression with mutliple input variables
+# Regression with mutliple input variables
 **Learning Objectives:**
 - Use vectorization to implement multiple linear regression
 - Use feature scaling, feature engineering, and polynomial regression to improve model training
@@ -6,7 +6,7 @@
 
 ---
 
-## Ch 1: Multiple linear regression
+## Multiple linear regression
 
 ### Multiple features
 > Till now, we have worked only with a single feature in *linear regression*. But now we will learn how to work with *multiple features*.
